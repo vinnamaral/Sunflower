@@ -1,5 +1,5 @@
 Android Sunflower
-=================
+==================
 
 A gardening app illustrating Android development best practices with Android Jetpack.
 
